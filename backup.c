@@ -1,6 +1,6 @@
  g_nStepCount++;
 
- //changed 1
+ //changed 2
  
 // In case of error, uncomment next two lines. Set *pnError to 1 and copy Error message to szErrorMsg
  //*pnError=1;
